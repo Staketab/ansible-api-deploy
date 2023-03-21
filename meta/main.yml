@@ -11,7 +11,7 @@ galaxy_info:
     versions:
     - bullseye
   galaxy_tags:
-  - java
+  - api
   - backend
   - deployment
 
